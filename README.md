@@ -6,10 +6,10 @@
 * Português (Brazil) Language Pack for Visual Studio Code;
 => Pacote para configuração da Língua Portuguesa do Brasileira para o VS-Code;
 
-*C/C++ Compile Run;
+* C/C++ Compile Run;
 => Compilador do C/C++;
 
-*Drácula Oficial;
+* Drácula Oficial;
 => Tema para melhorar o visual enquando realizamos os códigos no VS-Code.
 
 # Definir O Tema Drácula
